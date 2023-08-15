@@ -1,0 +1,2 @@
+fastai==2.7.12
+plotly
